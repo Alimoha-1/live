@@ -1,0 +1,16 @@
+:root {
+    --primary-color: #e50914;
+    --secondary-color: #0071eb;
+    --dark-bg: #0b0b0b;
+    --darker-bg: #0b0b0b;
+    --light-bg: #222222;
+    --text-color: #ffff;
+    --text-muted: #b3b3b3;
+    --border-color: #3333;
+    --gradient-overlay: linear-gradient(
+        to top,
+        rgba(0,0,0,0.1) 0%,
+        rgba(0,0,0,0.4) 60%,
+        rgba(0,0,0,0.3) 100%
+    );
+}
